@@ -1,0 +1,10 @@
+FILTERS = {
+    'MAX_PRICE': 1000.0,
+    'MAX_REVIEWS': 1000,
+    'MAX_ORDERS': 1000,
+}
+
+SETTINGS = {
+    'TIME_TO_COLLECT_DATA': '00:00',
+    'TIMEOUT': 15,
+}
